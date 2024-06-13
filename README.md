@@ -18,7 +18,7 @@ positional arguments:
 optional arguments:
   -h, --help       show this help message and exit
   --speed SPEED    Speed factor (default: 1.0)
-  --volume VOLUME  Volume change in dB (default: 0)
+  --volume VOLUME  Volume change in dB (default: 0.0)
 ```
 
 # Transcribe manual
