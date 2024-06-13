@@ -3,7 +3,6 @@
 python3.8 -m venv venv_exp
 source venv_exp/bin/activate
 python3.8 -m pip install --upgrade git+https://github.com/huggingface/transformers.git accelerate torchaudio
-
 ```
 
 # Modify manual
