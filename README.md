@@ -21,7 +21,7 @@ optional arguments:
 ```
 ### Ex:
 ```
-python3.8 main.py modify /home/sedunov_ia/ACQC/data/sample.wav /home/sedunov_ia/ACQC/data/sample_edite.wav --volume 10.0 --speed 0.5
+python3.8 main.py modify sample.wav sample_edited.wav --volume 10.0 --speed 0.5
 ```
 # Transcribe manual
 ```
@@ -37,5 +37,5 @@ optional arguments:
 ```
 ### Ex:
 ```
-python3.8 main.py transcribe /home/sedunov_ia/ACQC/data/sample.wav --lang russian
+python3.8 main.py transcribe sample.wav --lang russian
 ```
